@@ -1,0 +1,2 @@
+# Thư viện để hỗ trợ giao diện đồ họa và xử lý hình ảnh
+Pillow>=10.0.0
